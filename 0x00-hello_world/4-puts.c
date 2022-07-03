@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 /*
 *main - entry point-contains the body function
 *void: an argument
