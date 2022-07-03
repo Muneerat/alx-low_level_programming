@@ -1,10 +1,11 @@
 #include <stdio.h>
-/
-*maim - entry point
+/*
+*main - entry point-contains the body function
+*void: an argument
 */
 {
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle\n");
 return (0);
 }
