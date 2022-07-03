@@ -1,4 +1,7 @@
 #include <stdio.h>
+/
+*maim - entry point
+*/
 {
 int main(void)
 {
