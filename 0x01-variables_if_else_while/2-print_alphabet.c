@@ -15,10 +15,12 @@ int n;
 srand(time(0));
 
 n = rand() - RAND_MAX / 2;
-for (int x = "A"; x <= "Z"; x++)
+var char;
+for (char = 97; char <= 122; char++)
 {
-putchar(lower(x);
+putchar(char);
 }
+putchar(0);
 return (0);
 
 }
