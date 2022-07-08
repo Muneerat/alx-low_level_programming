@@ -10,12 +10,7 @@
 int main(void)
 
 {
-int n;
-
-srand(time(0));
-
-n = rand() - RAND_MAX / 2;
-var char;
+int char;
 for (char = 97; char <= 122; char++)
 {
 putchar(char);
